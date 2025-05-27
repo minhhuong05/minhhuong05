@@ -54,7 +54,7 @@ If you have an opening or a project where I can contribute, feel free to connect
 ## 📫 Let’s connect
 
 📧 [Email me](mailto:[minhhuon05.work@gmail.com])  
-🌐 [Portfolio / Website][(https://github.com/minhhuong05)]
+🌐 [Portfolio / Website](https://github.com/minhhuong05)
 
 ---
 
