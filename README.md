@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Minh Huong!
 
-🎓 I'm currently pursuing a **Bachelor’s Degree in Data Science in Economics and Business** at **Technology School (NCT), National Economics University (NEU).**.  
+🎓 I'm currently pursuing a **Bachelor’s Degree in Data Science in Economics and Business** at **Technology School (NCT), National Economics University (NEU)**.  
 🔎 Passionate about building scalable data pipelines and transforming raw data into actionable insights.  
 🌱 Actively seeking a **Data Engineer, Data Science Internship** to apply my skills in ETL, Big Data, and its applications.
 
